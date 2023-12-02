@@ -1,0 +1,27 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.Client", "Client\Inventory.Client.csproj", "{77A75C47-4724-4529-BB5B-AC287FB52E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.Server", "Server\Inventory.Server.csproj", "{2CCFCA37-376B-4658-B8F9-C51C27AE6FB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77A75C47-4724-4529-BB5B-AC287FB52E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A75C47-4724-4529-BB5B-AC287FB52E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A75C47-4724-4529-BB5B-AC287FB52E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A75C47-4724-4529-BB5B-AC287FB52E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCFCA37-376B-4658-B8F9-C51C27AE6FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCFCA37-376B-4658-B8F9-C51C27AE6FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCFCA37-376B-4658-B8F9-C51C27AE6FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCFCA37-376B-4658-B8F9-C51C27AE6FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

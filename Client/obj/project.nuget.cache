@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c/H78OHslV7pLN1RX1LB5eYD8PNkn3s5bX8+9saJcZdO/A/pTnrYNfA+6ch90A/qecXNgy1uDUDvTrCo856JhA==",
+  "success": true,
+  "projectFilePath": "G:\\FiveM\\Projects\\Inventory\\Client\\Inventory.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blois\\.nuget\\packages\\citizenfx.core.client\\1.0.7139\\citizenfx.core.client.1.0.7139.nupkg.sha512",
+    "C:\\Users\\blois\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\blois\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net452\\1.0.3\\microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512",
+    "C:\\Users\\blois\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
