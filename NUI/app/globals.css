@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.folder-tab{
+    height: 34px;
+    width: 150px;
+    position: relative;
+    top: 10px;
+    background-color: #FcFcfc;
+    left: 28px;
+    display: inline-block;
+    z-index: 2;
+    margin-right:50px;
+    color: #A3B4C9;
+}
