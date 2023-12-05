@@ -9,17 +9,25 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-      },
       scale: {
         '175': '1.75',
         '200': '2.0',
         '250': '2.5',
+      },
+      height: {
+        '5vh': '5vh',
+      },
+      width: {
+        '1/16': '6.25%',
+      },
+      fontFamily: {
+        squares: ["Squares", "sans"],
+      },
+      fontSize: {
+        'osfa': '1.9vh',
       }
     },
+    
   },
   plugins: [],
 }

@@ -1,18 +1,16 @@
-import React from 'react';
-import Image from 'next/image';
+import React from 'react'
+import Image from 'next/image'
 
-import Male from '../../public/Male.svg';
+import Male from '../../public/Male.svg'
 
-function CharOutline() {
+const CharOutline = () => {
   return (
-    <div className = 'flex justify-items-center'>
-      <div className='scale-250 justify-items-center'>
-        <Image
-          src={Male}
-          alt=""
-        />
-      </div>
-    </div>
+     <Image
+        src={Male}
+        alt=""
+        priority={true}
+        fill
+      />
   )
 }
 

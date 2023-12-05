@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 29.35 28.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+        stroke: url(#linear-gradient-2);
+        stroke-linejoin: round;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="14.6" y1=".36" x2="14.6" y2="28.43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#323232"/>
+      <stop offset="1" stop-color="#232323"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="16.75" y1="2.83" x2="11.79" y2="30.94" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#646464"/>
+      <stop offset=".05" stop-color="#717272" stop-opacity=".88"/>
+      <stop offset=".2" stop-color="#949595" stop-opacity=".58"/>
+      <stop offset=".35" stop-color="#afb0b1" stop-opacity=".34"/>
+      <stop offset=".53" stop-color="#c2c3c4" stop-opacity=".18"/>
+      <stop offset=".72" stop-color="#cdcfd0" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#d1d3d4" stop-opacity=".05"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_21" data-name="Layer 21">
+    <polyline class="cls-1" points=".35 .36 28.85 28.42 .35 28.43"/>
+  </g>
+</svg>

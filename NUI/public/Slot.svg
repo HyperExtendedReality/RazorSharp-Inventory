@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: none;
+        opacity: .9;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="40" y1="0" x2="40" y2="80" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#414141"/>
+      <stop offset="1" stop-color="#232323"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="80" y1="0" x2="0" y2="80" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d1d3d4" stop-opacity=".4"/>
+      <stop offset="1" stop-color="#d1d3d4" stop-opacity=".05"/>
+    </linearGradient>
+  </defs>
+  <g id="Headwear">
+    <g id="Slots" class="cls-2">
+      <g>
+        <rect class="cls-3" width="80" height="80"/>
+        <path class="cls-1" d="m79.5.5v79H.5V.5h79M80,0H0v80h80V0h0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
