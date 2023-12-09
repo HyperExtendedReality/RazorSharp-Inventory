@@ -11,7 +11,7 @@ const Slot = () => {
           alt="slot"
           priority={true}
           style={{
-            width: '7.5vh',
+            width: '8vh',
         }}/>
       </div>
   )

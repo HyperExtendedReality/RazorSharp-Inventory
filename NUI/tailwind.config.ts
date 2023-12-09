@@ -24,7 +24,7 @@ const config: Config = {
         squares: ["Squares", "sans"],
       },
       fontSize: {
-        'osfa': '1.9vh',
+        'osfa': '1.75vh',
       }
     },
     
